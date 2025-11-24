@@ -38,12 +38,14 @@ ml_grpc_service/
 └── README.md
 
 
-![1](screenshots/1.jpg)
+---
 
-![2](screenshots/2.jpg)
+![Docker build](screenshots/1.jpg)
 
-![3](screenshots/3.jpg)
+![Docker run](screenshots/2.jpg)
 
-![4](screenshots/4.jpg)
+![Health](screenshots/3.jpg)
 
-![5](screenshots/5.jpg)
+![Predict](screenshots/4.jpg)
+
+![Client output](screenshots/5.jpg)
