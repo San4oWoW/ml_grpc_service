@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bytecode
+*.db
+*.log
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker cache
+*.tar
+
+# Protobuf build artifacts backup (если где-то создашь)
+*.pb.go
+*.pb.cc
+*.pb.h
+*.pb.o
+
+# MLflow и временные каталоги
+mlruns/
+*.pickle
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+*.iml
+
+# Запрещать тренировочные данные, но НЕ модель
+data/
+!models/
+!models/model.pkl

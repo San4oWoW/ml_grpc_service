@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.db
+.env
+.venv/
+venv/
+.git/
+.gitignore
+.dockerignore
+.idea/
+.vscode/
+tests/
+models/train_dummy_model.py
