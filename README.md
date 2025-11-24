@@ -40,12 +40,13 @@ ml_grpc_service/
 
 ---
 
-![Docker build](screenshots/1.jpg)
+![1](./screenshots/1.jpg)
 
-![Docker run](screenshots/2.jpg)
+![2](./screenshots/2.jpg)
 
-![Health](screenshots/3.jpg)
+![3](./screenshots/3.jpg)
 
-![Predict](screenshots/4.jpg)
+![4](./screenshots/4.jpg)
 
-![Client output](screenshots/5.jpg)
+![5](./screenshots/5.jpg)
+
