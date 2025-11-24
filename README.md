@@ -37,3 +37,4 @@ ml_grpc_service/
 ├── .dockerignore
 └── README.md
 
+## Скриншоты работы в папке screenshots
